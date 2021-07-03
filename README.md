@@ -2,10 +2,9 @@
 ### Hi there 👋
 ![Adi Munawar31's GitHub stats](https://github-readme-stats.vercel.app/api?username=adimunawar31&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adimunawar31&layout=compact)](https://github.com/adimunawar31/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adimunawar31)](https://github.com/adimunawar31/github-readme-stats)
 
-
-**AdiMunawar31/AdiMunawar31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I create blog posts and open source packages mainly about python and data engineering. I have a passion for learning and sharing my knowledge with others a public as possible. You can see a full list of what I am up to on munawar.com. If you found value in something I have created, please feel free to send a tip, give me a shout out @munawar31, give some ♥ on DEV.to/adimunawar31, or sign up for my newsletter at munawar.com/newsletter I would love to see you join.
 
 Here are some ideas to get you started:
 
