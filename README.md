@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-<img src="https://raw.githubusercontent.com/AdiMunawar31>/AdiMunawar31/master/<GIF_NAME>.gif" width="30px">
+![Adi Munawar31's GitHub stats](https://github-readme-stats.vercel.app/api?username=adimunawar31&show_icons=true&theme=radical)
 
 <!--
 **AdiMunawar31/AdiMunawar31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
