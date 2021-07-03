@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+<img src="https://raw.githubusercontent.com/AdiMunawar31>/AdiMunawar31/master/<GIF_NAME>.gif" width="30px">
 
 <!--
 **AdiMunawar31/AdiMunawar31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
