@@ -9,31 +9,42 @@ I create blog posts and open source packages mainly about python and data engine
 <h1 align="center">Hi 👋, I'm Adi Munawar</h1>
 
 <p align="center">
-<a href="https://github.com/adimunawar31/adimunawar31/master/LICENSE" target="blank">
-<img src="https://img.shields.io/github/license/adimunawar31/adimunawar31?style=flat-square" alt="github-profile-readme-generator license" />
+<a href="https://github.com/adimunawar31/d2ygatsby/main/LICENSE" target="blank">
+<img src="https://img.shields.io/github/license/adimunawar31/d2y_channel?style=flat-square" alt="github-profile-readme-generator license" />
 </a>
-<a href="https://github.com/adimunawar31/adimunawar31/fork" target="blank">
-<img src="https://img.shields.io/github/forks/adimunawar31/adimunawar31?style=flat-square" alt="github-profile-readme-generator forks"/>
+<a href="https://github.com/adimunawar31/d2y_channel/fork" target="blank">
+<img src="https://img.shields.io/github/forks/adimunawar31/d2y_channel?style=flat-square" alt="github-profile-readme-generator forks"/>
 </a>
-<a href="https://github.com/adimunawar31/adimunawar31/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/adimunawar31/adimunawar31?style=flat-square" alt="github-profile-readme-generator stars"/>
+<a href="https://github.com/adimunawar31/d2y_channel/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/adimunawar31/d2y_channel?style=flat-square" alt="github-profile-readme-generator stars"/>
 </a>
-<a href="https://github.com/adimunawar31/adimunawar31/issues" target="blank">
-<img src="https://img.shields.io/github/issues/adimunawar31/adimunawar31?style=flat-square" alt="github-profile-readme-generator issues"/>
+<a href="https://github.com/adimunawar31/d2y_channel/issues" target="blank">
+<img src="https://img.shields.io/github/issues/adimunawar31/d2y_channel?style=flat-square" alt="github-profile-readme-generator issues"/>
 </a>
-<a href="https://github.com/adimunawar31/adimunawar31/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/adimunawar31/adimunawar31?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+<a href="https://github.com/adimunawar31/d2y_channel/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/adimunawar31/d2y_channel?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
 </a>
 <a href="https://discord.gg/HHMs7Eg" target="blank">
 <img src="https://img.shields.io/discord/735303195105951764?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of github profile readme generator"/>
 </a>
 </p>
 
+<p align="center">
+<a href="https://www.paypal.me/adimunawar31"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github profile readme generator"/>
+</a>
+<a href='https://ko-fi.com/A0A81XXSX' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for adimunawar31' />
+</a>
+<a href="https://www.buymeacoffee.com/adimunawar31" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" />
+</p>
+
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adimunawar31&label=Profile%20views&color=0e75b6&style=flat" alt="adimunawar31" /> </p>
+<a align="left" href="https://github.com/adimunawar31/d2y_channel">
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
 
-<p align="left"> <a href="https://github.com/adimunawar31/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adimunawar31" alt="adimunawar31" /></a> </p>
+<p align="left"> <a href="https://github.com/adimunawar31/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adimunawar31&theme=onedark" alt="adimunawar31" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/adimunawar31" target="blank"><img src="https://img.shields.io/twitter/follow/adimunawar31?logo=twitter&style=for-the-badge" alt="adimunawar31" /></a> </p>
 
@@ -58,9 +69,12 @@ I create blog posts and open source packages mainly about python and data engine
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adimunawar31&show_icons=true&locale=en" alt="adimunawar31" /></p>
-<p><img style="margin-bottom: 20px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adimunawar31&show_icons=true&locale=en&layout=compact" alt="adimunawar31" /></p>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adimunawar31&" alt="adimunawar31" /></p> -->
+![Adi Munawar's GitHub stats](https://github-readme-stats.vercel.app/api?username=adimunawar31&show_icons=true&theme=tokyonight)
+<p><img style="margin-bottom: 20px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adimunawar31&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="adimunawar31" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adimunawar31&theme=tokyonight" alt="adimunawar31" /></p>
+
+
+[![Adi Munawar's github activity graph](https://activity-graph.herokuapp.com/graph?username=adimunawar31&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h1 align="center">HELLO WORLD!❤</h1>
 
