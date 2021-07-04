@@ -37,7 +37,7 @@ I create blog posts and open source packages mainly about python and data engine
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adimunawar31&show_icons=true&locale=en" alt="adimunawar31" /></p>
-<p><img style="margin-bottom: 20px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adimunawar31&show_icons=true&locale=en&layout=compact" alt="adimunawar31" /></p>
+<p><img style="margin-bottom: 20px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adimunawar31&show_icons=true&locale=en&layout=compact" alt="adimunawar31" /></p>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adimunawar31&" alt="adimunawar31" /></p> -->
 
 <h1 align="center">HELLO WORLD!❤</h1>
