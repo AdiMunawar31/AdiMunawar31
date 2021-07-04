@@ -7,11 +7,33 @@
 I create blog posts and open source packages mainly about python and data engineering. I have a passion for learning and sharing my knowledge with others a public as possible. You can see a full list of what I am up to on munawar.com. If you found value in something I have created, please feel free to send a tip, give me a shout out @munawar31, give some ♥ on DEV.to/adimunawar31, or sign up for my newsletter at munawar.com/newsletter I would love to see you join. -->
 
 <h1 align="center">Hi 👋, I'm Adi Munawar</h1>
+
+<p align="center">
+<a href="https://github.com/adimunawar31/adimunawar31/master/LICENSE" target="blank">
+<img src="https://img.shields.io/github/license/adimunawar31/adimunawar31?style=flat-square" alt="github-profile-readme-generator license" />
+</a>
+<a href="https://github.com/adimunawar31/adimunawar31/fork" target="blank">
+<img src="https://img.shields.io/github/forks/adimunawar31/adimunawar31?style=flat-square" alt="github-profile-readme-generator forks"/>
+</a>
+<a href="https://github.com/adimunawar31/adimunawar31/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/adimunawar31/adimunawar31?style=flat-square" alt="github-profile-readme-generator stars"/>
+</a>
+<a href="https://github.com/adimunawar31/adimunawar31/issues" target="blank">
+<img src="https://img.shields.io/github/issues/adimunawar31/adimunawar31?style=flat-square" alt="github-profile-readme-generator issues"/>
+</a>
+<a href="https://github.com/adimunawar31/adimunawar31/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/adimunawar31/adimunawar31?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+</a>
+<a href="https://discord.gg/HHMs7Eg" target="blank">
+<img src="https://img.shields.io/discord/735303195105951764?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of github profile readme generator"/>
+</a>
+</p>
+
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adimunawar31&label=Profile%20views&color=0e75b6&style=flat" alt="adimunawar31" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adimunawar31" alt="adimunawar31" /></a> </p>
+<p align="left"> <a href="https://github.com/adimunawar31/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adimunawar31" alt="adimunawar31" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/adimunawar31" target="blank"><img src="https://img.shields.io/twitter/follow/adimunawar31?logo=twitter&style=for-the-badge" alt="adimunawar31" /></a> </p>
 
