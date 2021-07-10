@@ -6,7 +6,7 @@
 
 I create blog posts and open source packages mainly about python and data engineering. I have a passion for learning and sharing my knowledge with others a public as possible. You can see a full list of what I am up to on munawar.com. If you found value in something I have created, please feel free to send a tip, give me a shout out @munawar31, give some ♥ on DEV.to/adimunawar31, or sign up for my newsletter at munawar.com/newsletter I would love to see you join. -->
 
-<h1 align="center">Hi 👋, I'm Adi Munawar</h1>
+<h1 align="center">Hi 👋, I'm Adi Munawar from Indonesia</h1>
 
 <p align="center">
 <a href="https://github.com/adimunawar31/d2ygatsby/main/LICENSE" target="blank">
