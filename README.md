@@ -86,6 +86,6 @@ I create blog posts and open source packages mainly about python and data engine
 - 🤔 I’m looking for help with Coding
 - 💬 Ask me about How To Playing Football
 - 📫 How to reach me: https://instagram.com/mhunawar31
-- 😄 Pronouns: ...
+- 😄 Pronouns: English
 - ⚡ Fun fact: ...
 
