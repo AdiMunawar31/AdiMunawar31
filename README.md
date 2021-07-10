@@ -37,7 +37,7 @@ I create blog posts and open source packages mainly about python and data engine
 <a href="https://www.buymeacoffee.com/adimunawar31" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" />
 </p>
 
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A Passionate Frontend Developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adimunawar31&label=Profile%20views&color=0e75b6&style=flat" alt="adimunawar31" /> </p>
 <a align="left" href="https://github.com/adimunawar31/d2y_channel">
