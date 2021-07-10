@@ -87,5 +87,5 @@ I create blog posts and open source packages mainly about python and data engine
 - 💬 Ask me about How To Playing Football
 - 📫 How to reach me: https://instagram.com/mhunawar31
 - 😄 Pronouns: English
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: My Hoby Is Playing Football
 
