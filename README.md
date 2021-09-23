@@ -1,5 +1,44 @@
 <h1 align="center">Hi <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">, I'm Adi Munawar from Indonesia</h1>
+<br><br>
+<a href="https://twitter.com/amandewatnitrr">
+  <img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/">
+  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/amandewatnitrr">
+  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/akd_beast_slayer/">
+  <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/channel/UCJ3giAOL-ycnqLDCA96AJag">
+  <img align="left" alt="akd's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
+</a>
+<a href="https://www.coursera.org/user/b64b50f1306c84937347735b9120e533">
+  <img align="left" alt="kad's Coursera" width="100px" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
+</a>
+<a href="https://www.qwiklabs.com/public_profiles/d9014880-0e88-42ad-abee-5e6e5e380de5">
+  <img align="left" alt="akd's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
+</a>
+<br><br>
+<a href="https://www.hackerrank.com/amandewatnitrr?hr_r=1">
+  <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
+</a>
+<a href="https://www.codechef.com/users/amandewatnitrr">
+  <img align="left" alt="akd's codechef" src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.rating&url=https://competitive-coding-api.herokuapp.com/api/codechef/amandewatnitrr&prefix=Rating%20&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=86400" />
+</a>
+<a href="mailto:amandewatnitrr@gmail.com">
+  <img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
 
+<br><br>
+![AdiMunawar31](https://github.com/AdiMunawar31/AdiMunawar31/blob/main/header_.png)
+
+## <p align="center"><h4 align="center"><samp> An IoT Developer, An Open Source Contributor, Cloud Architecture ☁  & A Competitive Programmer </samp></h4></p>
+
+<div>
+      
 <!-- BADGE -->
 
 <p align="center">
@@ -99,12 +138,27 @@
 </a>
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adimunawar31&theme=algolia" alt="adimunawar31"/></p>
-
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adimunawar31&theme=dracula" />
 
 <!-- [![Adi Munawar's github activity graph](https://activity-graph.herokuapp.com/graph?username=adimunawar31&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
+<hr>
+  
+### Spotify Playing 🎧
 
-<p>Here are some ideas to get you started:</p>
+![Spotify](https://novatorem.vercel.app/api/spotify)
+
+<br>  
+
+##
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/adimunawar31/count.svg" />
+</p>
+  
+![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
+
+<!-- <p>Here are some ideas to get you started:</p>
 
 - 🔭 I’m currently working on Munawar.com
 - 🌱 I’m currently learning in STMIK IKMI CIREBON
@@ -113,5 +167,5 @@
 - 💬 Ask me about How To Playing Football
 - 📫 How to reach me: https://instagram.com/mhunawar31
 - 😄 Pronouns: English
-- ⚡ Fun fact: My Hoby Is Playing Footbal
+- ⚡ Fun fact: My Hoby Is Playing Footbal -->
 
