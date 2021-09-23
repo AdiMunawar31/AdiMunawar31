@@ -60,6 +60,7 @@
 
 ### Languages
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+  <br />
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
