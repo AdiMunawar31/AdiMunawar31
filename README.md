@@ -134,7 +134,7 @@
   <img src="https://profile-counter.glitch.me/adimunawar31/count.svg" />
 </p>
   
-![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- <p>Here are some ideas to get you started:</p>
 
