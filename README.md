@@ -18,9 +18,9 @@
 <a href="https://www.coursera.org/user/adimunawar31">
   <img align="left" alt="kad's Coursera" width="100px" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
 </a>
-<a href="https://www.qwiklabs.com/public_profiles/adimunawar31">
+<!-- <a href="https://www.qwiklabs.com/public_profiles/adimunawar31">
   <img align="left" alt="akd's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
-</a>
+</a> -->
 <br><br>
 <a href="https://www.hackerrank.com/adimunawar31?hr_r=1">
   <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
