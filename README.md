@@ -120,7 +120,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adimunawar31&theme=algolia" alt="adimunawar31"/></p>
 <!-- <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adimunawar31&theme=dracula" /> -->
 
-<!-- [![Adi Munawar's github activity graph](https://activity-graph.herokuapp.com/graph?username=adimunawar31&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<!-- [![Adi Munawar's github activity graph](https://activity-graph.herokuapp.com/graph?username=adimunawar31&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph1) -->
 
 <hr>
   
