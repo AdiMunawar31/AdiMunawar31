@@ -136,7 +136,7 @@
   <img src="https://profile-counter.glitch.me/adimunawar31/count.svg" />
 </p>
 
-<!-- <p>Here are some ideas to get you started:</p>
+<!-- <p>Heres are some ideas to get you started:</p>
 
 - 🔭 I’m currently working on Munawar.com
 - 🌱 I’m currently learning in STMIK IKMI CIREBON
