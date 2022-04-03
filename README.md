@@ -134,7 +134,7 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/adimunawar31/count.svg" />
-</p>p
+</p>
 
 <!-- <p>Heres are some ideas to get you started:</p>
 
