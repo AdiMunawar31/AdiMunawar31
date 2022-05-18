@@ -1,34 +1,20 @@
 <h1 align="center">Hi <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">, I'm Adi Munawar from Indonesia</h1>
 <br><br>
-<a href="https://twitter.com/adimunawar31">
-  <img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/adimunawar31/">
-  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/adimunawar31">
-  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/mhunawar31/">
-  <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/channel/UCx7GJoa9DAyngsmAQJ_uGLA/videos?view=0&sort=p">
-  <img align="left" alt="akd's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
-</a>
-<a href="https://www.coursera.org/user/adimunawar31">
-  <img align="left" alt="kad's Coursera" width="100px" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
-</a>
-<!-- <a href="https://www.qwiklabs.com/public_profiles/adimunawar31">
-  <img align="left" alt="akd's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
-</a> -->
-<br><br>
-<a href="https://www.hackerrank.com/adimunawar31?hr_r=1">
-  <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
-</a>
 
+<div align="left">
+
+[![Instagram](https://img.shields.io/badge/munawar31-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rzashakeri/)
+[![Youtube](https://img.shields.io/badge/D2Y_CHANNEL-%23E44043.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCx7GJoa9DAyngsmAQJ_uGLA)
+[![Twitter](https://img.shields.io/badge/adimunawar31-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/adimunawar31/)
+[![Linkedin](https://img.shields.io/badge/Adi_Munawar-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adi-munawar-2359601b2//)
+[![github](https://img.shields.io/badge/adimunawar31-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adimunawar31/)
 <a href="mailto:munawar.adi31@gmail.com">
-  <img align="left" alt="akd's codechef" width="80px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+  <img alt="akd's codechef" src="https://img.shields.io/badge/Adi_Mr-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
+![](https://komarev.com/ghpvc/?username=adimunawar31&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
+
+ 
+</div> 
 
 <br><br>
 ![AdiMunawar31](https://github.com/AdiMunawar31/AdiMunawar31/blob/main/header_.png)
@@ -46,7 +32,7 @@
 <a href="https://www.buymeacoffee.com/adimunawar31" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adimunawar31&label=Profile%20views&color=0e75b6&style=flat" alt="adimunawar31" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=adimunawar31&label=Profile%20views&color=0e75b6&style=flat" alt="adimunawar31" /> </p> -->
 <a align="left" href="https://github.com/adimunawar31/d2y_channel">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
@@ -130,11 +116,11 @@
 
 <br>  
 
-##
+<!-- ##
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/adimunawar31/count.svg" />
-</p>
+</p> -->
 
 <!-- <p>Heres are some ideas to get you started:</p>
 
