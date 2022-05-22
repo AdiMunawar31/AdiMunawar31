@@ -3,13 +3,13 @@
 
 <div align="left">
 
-[![Instagram](https://img.shields.io/badge/munawar31-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rzashakeri/)
-[![Youtube](https://img.shields.io/badge/D2Y_CHANNEL-%23E44043.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCx7GJoa9DAyngsmAQJ_uGLA)
+[![Instagram](https://img.shields.io/badge/mhunawar31-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mhunawar31/)
 [![Twitter](https://img.shields.io/badge/adimunawar31-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/adimunawar31/)
+[![Youtube](https://img.shields.io/badge/D2Y_CHANNEL-%23E44043.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCx7GJoa9DAyngsmAQJ_uGLA)
 [![Linkedin](https://img.shields.io/badge/Adi_Munawar-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adi-munawar-2359601b2//)
 [![github](https://img.shields.io/badge/adimunawar31-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adimunawar31/)
 <a href="mailto:munawar.adi31@gmail.com">
-  <img alt="akd's codechef" src="https://img.shields.io/badge/Adi_Mr-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+  <img alt="akd's codechef" src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 ![](https://komarev.com/ghpvc/?username=adimunawar31&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 
@@ -39,14 +39,15 @@
 
 
 <!-- Trophy -->
-<p align="left"> <a href="https://github.com/adimunawar31/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adimunawar31&theme=algolia" alt="adimunawar31" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/adimunawar31/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adimunawar31&theme=algolia" alt="adimunawar31" /></a> 
+</p>
 
 
-
-
-### Languages
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
+<br>
+  
+### Languages
 <!-- ![Python](https://img.shields.io/badge/-Python-000?&logo=Pythonnn) -->
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
