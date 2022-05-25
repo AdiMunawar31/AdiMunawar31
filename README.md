@@ -60,7 +60,7 @@
 ### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-05122A?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker)
+<!-- ![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker) -->
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb)
