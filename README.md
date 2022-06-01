@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">, I'm Adi Munawar from Indonesia</h1>
+<h1 align="center">Hi, I'm Adi Munawar from Indonesia</h1>
 <br><br>
 
 <div align="left">
