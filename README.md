@@ -97,7 +97,7 @@
 [![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map) -->
 
 
-<!-- STATSs -->
+<!-- STATS -->
 <p align="left">
 <a href="https://github.com/adimunawar31">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adimunawar31&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
