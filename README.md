@@ -86,7 +86,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android-05122A?style=flat&&logo=Android)
 
-<!-- ### Full Stack Projectsss
+<!-- ### Full Stack Projectssss
 
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
 [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
