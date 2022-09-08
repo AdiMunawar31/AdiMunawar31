@@ -62,19 +62,21 @@
 ![AWS](https://img.shields.io/badge/-AWS-05122A?&logo=Amazon-AWS&logoColor=F90)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=express)
+![NestJs](https://img.shields.io/badge/-NestJs-05122A?&logo=nestjs)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=postgresql)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase)
 ![React](https://img.shields.io/badge/-React-05122A?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat-square&logo=Redux)
 ![Next.js](https://img.shields.io/badge/-Next-05122A?style=flat-square&logo=Next.js)
 ![Redis](https://img.shields.io/badge/-Redis-05122A?&logo=Redis)
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?&logo=Laravel)
-![Codeigniter](https://img.shields.io/badge/-Codeigniter-05122A?&logo=Codeigniter)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=bootstrap)
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&&logo=Flutter)
+![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker)
 <!-- ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring) -->
-<!-- ![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker) -->
 
 ### Tools & Platform
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat-square&logo=heroku)&nbsp;
