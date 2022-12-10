@@ -55,6 +55,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=2f9aff)
+![Go](https://img.shields.io/badge/-Golang-000?&logo=Go&logoColor=2f9aff)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ### Technologies
