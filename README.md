@@ -77,7 +77,8 @@
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&&logo=Flutter)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker)
-<!-- ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring) -->
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-000?&logo=SpringBoot)
 
 ### Tools & Platform
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat-square&logo=heroku)&nbsp;
@@ -87,7 +88,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android-05122A?style=flat&&logo=Android)
 
 <!-- ### Full Stack Projectssss
