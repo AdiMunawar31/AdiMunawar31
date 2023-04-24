@@ -1,8 +1,7 @@
 <h1 align="center">Hii, I'm Adi Munawar from Indonesia</h1>
 <br><br>
 
-<div align="left">
-
+<!-- <div align="left">
 [![Instagram](https://img.shields.io/badge/mhunawar31-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mhunawar31/)
 [![Twitter](https://img.shields.io/badge/adimunawar31-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/adimunawar31/)
 [![Youtube](https://img.shields.io/badge/D2Y_CHANNEL-%23E44043.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCx7GJoa9DAyngsmAQJ_uGLA)
@@ -11,10 +10,24 @@
 <a href="mailto:munawar.adi31@gmail.com">
   <img alt="akd's codechef" src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
-![](https://komarev.com/ghpvc/?username=adimunawar31&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=adimunawar31&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen) 
+</div>  -->
 
- 
-</div> 
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<p align="center">
+  <a href="https://www.youtube.com/@d2ychannel87?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
+  <a href="https://www.youtube.com/@d2ychannel87">
+    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
+  <a href="https://github.com/AdiMunawar31?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AdiMunawar31?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/AdiMunawar31?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AdiMunawar31?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/AdiMunawar31/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=adimunawar31&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen"/></a>
+</p>
 
 <br><br>
 ![AdiMunawar31](https://github.com/AdiMunawar31/AdiMunawar31/blob/main/header_.png)
@@ -39,9 +52,10 @@
 
 
 <!-- Trophy -->
-<p align="left"> 
+<!-- <p align="left"> 
   <a href="https://github.com/adimunawar31/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adimunawar31&theme=algolia" alt="adimunawar31" /></a> 
-</p>
+</p> -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=adimunawar31&theme=onedark)](https://github.com/adimunawar31/github-profile-trophy)
 
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -103,16 +117,37 @@
 
 
 <!-- STATSss -->
-<p align="left">
+<!-- <p align="left">
 <a href="https://github.com/adimunawar31">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adimunawar31&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adimunawar31&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adimunawar31&theme=algolia" alt="adimunawar31"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adimunawar31&theme=algolia" alt="adimunawar31"/></p> -->
 <!-- <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adimunawar31&theme=dracula" /> -->
 
 <!-- [![Adi Munawar's github activity graph](https://activity-graph.herokuapp.com/graph?username=adimunawar31&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph1) -->
+
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=adimunawar31&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=adimunawar31&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br>
+  <br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adimunawar31&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  
+<!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=adimunawar31&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
+</p>
 
 <hr>
   
