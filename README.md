@@ -51,7 +51,7 @@
     </a>
 
 
-<!-- Trophy -->
+<!-- Trophyy -->
 <!-- <p align="left"> 
   <a href="https://github.com/adimunawar31/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adimunawar31&theme=algolia" alt="adimunawar31" /></a> 
 </p> -->
