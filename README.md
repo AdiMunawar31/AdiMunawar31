@@ -55,7 +55,8 @@
 <!-- <p align="left"> 
   <a href="https://github.com/adimunawar31/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adimunawar31&theme=algolia" alt="adimunawar31" /></a> 
 </p> -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=adimunawar31&theme=onedark)](https://github.com/adimunawar31/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=adimunawar31&theme=onedark)](https://github.com/adimunawar31/github-profile-trophy) -->
+![](https://github-trophies.vercel.app/?username=adimunawar31&theme=dracula)
 
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -130,9 +131,7 @@
 
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=410 src="https://github-readme-streak-stats.herokuapp.com/?user=adimunawar31&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
+    <img class="m-2 select-none pointer-events-none" draggable="false" id="streak" src="https://nirzak-streak-stats.vercel.app/?user=adimunawar31&amp;theme=dark&amp;hide_border=false" alt="">
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=adimunawar31&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
