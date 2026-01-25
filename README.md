@@ -131,7 +131,7 @@
 
 <p align=center>
   <div align=center>
-    <img class="m-2 select-none pointer-events-none" draggable="false" id="streak" src="https://nirzak-streak-stats.vercel.app/?user=adimunawar31&amp;theme=dark&amp;hide_border=false" alt="">
+    <img align="left" width=390 class="m-2 select-none pointer-events-none" draggable="false" id="streak" src="https://nirzak-streak-stats.vercel.app/?user=adimunawar31&amp;theme=dark&amp;hide_border=false" alt="">
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=adimunawar31&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
