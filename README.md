@@ -96,7 +96,6 @@
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-000?&logo=SpringBoot)
 
 ### Tools & Platform
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat-square&logo=heroku)&nbsp;
 ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat-square&logo=netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat-square&logo=vercel)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
