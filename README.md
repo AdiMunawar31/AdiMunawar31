@@ -75,7 +75,6 @@
 
 ### Technologies
 
-![AWS](https://img.shields.io/badge/-AWS-05122A?&logo=Amazon-AWS&logoColor=F90)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=express)
 ![NestJs](https://img.shields.io/badge/-NestJs-05122A?&logo=nestjs)
